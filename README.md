@@ -132,7 +132,7 @@ A web application for managing blood donor records, tracking blood availability,
 Java • Spring Boot • MySQL • HTML • CSS • JavaScript
  
  Live Demo:
-https://agent-6a291a6b4105a18451--frabjous-haupia-746e13.netlify.app/analytics
+https://agent-6a291a6b4105a18451--frabjous-haupia-746e13.netlify.app/
 ---
 
 ### 🌐 Portfolio Website
