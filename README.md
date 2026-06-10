@@ -124,13 +124,15 @@ Java • Spring Boot • REST API
 
 ---
 
-### 📖 DSA in Java
+### 🩸 Blood Bank Analyser
 
-Collection of Data Structures & Algorithms solutions and coding challenges.
+A web application for managing blood donor records, tracking blood availability, and analyzing blood stock data to support efficient blood bank operations.
 
 🛠️ Tech Stack:
-Java • OOP • Algorithms
-
+Java • Spring Boot • MySQL • HTML • CSS • JavaScript
+ 
+ Live Demo:
+https://agent-6a291a6b4105a18451--frabjous-haupia-746e13.netlify.app/analytics
 ---
 
 ### 🌐 Portfolio Website
