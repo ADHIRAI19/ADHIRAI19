@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Adhirai</h1>
+```md
+<h1 align="center">Hi  I'm Adhirai</h1>
 
 <h3 align="center">
 🚀 Aspiring Software Engineer | Java Full Stack Developer | DSA Enthusiast
@@ -104,20 +104,45 @@
 
 # 🚀 Featured Projects
 
-### 📚 Library Management System
-Java + MySQL + JDBC
+### 🌾 Harvest Planner
 
-### 🏦 Banking Management System
-Java + OOP + MySQL
+Smart agricultural planning platform designed to help farmers manage crops, schedules, harvest cycles, and resources efficiently.
 
-### 👨‍🎓 Student Management System
-Spring Boot + REST API
+🛠️ Tech Stack:
+Java • Spring Boot • MySQL
+
+🔗 Live Demo:
+https://69626c0998dfcd6580c20446--serene-gelato-5dcd5d.netlify.app/
+
+---
+
+### 🤖 AI Chatbot
+
+Intelligent chatbot capable of answering user queries and providing interactive responses.
+
+🛠️ Tech Stack:
+Java • Spring Boot • REST API
+
+---
 
 ### 📖 DSA in Java
-Problem Solving Repository
+
+Collection of Data Structures & Algorithms solutions and coding challenges.
+
+🛠️ Tech Stack:
+Java • OOP • Algorithms
+
+---
 
 ### 🌐 Portfolio Website
-HTML + CSS + JavaScript
+
+Modern responsive portfolio showcasing projects, skills, achievements, and professional journey.
+
+🛠️ Tech Stack:
+HTML • CSS • JavaScript
+
+🔗 Live Demo:
+https://69626c0998dfcd6580c20446--serene-gelato-5dcd5d.netlify.app/
 
 ---
 
@@ -143,8 +168,17 @@ HTML + CSS + JavaScript
 </a>
 </p>
 
-LinkedIn:
+📧 Email:
+sivakumaradhirai@gmail.com
+
+🔗 LinkedIn:
 https://www.linkedin.com/in/adhirai-s-19oct/
+
+💻 GitHub:
+https://github.com/ADHIRAI19
+
+🌐 Portfolio:
+https://69626c0998dfcd6580c20446--serene-gelato-5dcd5d.netlify.app/
 
 ---
 
@@ -161,16 +195,6 @@ https://www.linkedin.com/in/adhirai-s-19oct/
 </div>
 
 <!--
-**ADHIRAI19/ADHIRAI19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ADHIRAI19/ADHIRAI19** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
+```
